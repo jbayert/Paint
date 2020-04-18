@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Paint2_0.jnlp">
+  <information>
+    <title>Paint2_0</title>
+    <vendor>jonb1</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Paint2_0.jar" size="127347" download="eager" />
+    <jar href="lib\testng-6.8.1-dist.jar" size="899661" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Paint2_0" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="Paint.PaintMain"  name="Paint2_0" />
+  <update check="always"/>
+</jnlp>

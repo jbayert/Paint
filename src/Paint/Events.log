@@ -1,2 +1,6 @@
-Apr 17, 2020 9:33:02 PM Paint.LoggerPaint <init>
+Nov 09, 2019 2:06:16 PM Paint.LoggerPaint <init>
 INFO: The Log File has started
+Nov 09, 2019 2:06:18 PM Paint.LoggerPaint lambda$call$0
+INFO: There was no tool selected for 1 seconds.
+Nov 09, 2019 2:06:20 PM Paint.LoggerPaint lambda$call$0
+INFO: Arc was selected for 2 seconds.

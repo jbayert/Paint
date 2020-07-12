@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<!--  This opens a help menu. The controller fills in the X's with current data.-->
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Paint.AboutPaintController">
+    <content>
+        <VBox spacing="5.0">
+            <children>
+                <Label text="Pain(t)" />
+            <Label text="Created by Jonathan Bayert" />
+                <HBox>
+                    <children>
+                        <Label text="Version: " />
+                        <Label fx:id="version" text="X.X" />
+                    </children>
+                </HBox>
+                <HBox>
+                    <children>
+                        <Label text="Release Date: " />
+                        <Label fx:id="releaseDate" text="XX.XX.XXXX" />
+                    </children>
+                </HBox>
+            </children>
+            <padding>
+                <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+            </padding>
+        </VBox>
+    </content>
+</ScrollPane>

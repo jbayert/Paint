@@ -16,7 +16,9 @@ A javaFx based photo editing app. This was developed for a computer science clas
 * Clippy helps you!
 * Hovering over the tools, revealed tips on how to use it.
 
-Rhe full release notes are avalable here
+Full release notes are avalable [here](https://github.com/jbayert/Paint/blob/master/docs/Pain(t)%20Release%20Notes%20Jonathan%20Bayert.txt).
+
+Also the uml is available [here](https://github.com/jbayert/Paint/blob/master/docs/UML%20Jonathan%20Bayert.pdf). 
 
 # Photos
 

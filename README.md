@@ -19,16 +19,21 @@ A javaFx based photo editing app. This was developed for a computer science clas
 Rhe full release notes are avalable here
 
 # Photos
+
 ![The Paint application](https://github.com/jbayert/Paint/blob/master/Photos/Capture1.PNG)
 
 Shapes that can be drawn
+
 ![The shapes](https://github.com/jbayert/Paint/blob/master/Photos/Capture2.PNG)
 
 The Color Palette
+
 ![The color selector](https://github.com/jbayert/Paint/blob/master/Photos/Capture3.PNG)
 
 The File menu
+
 ![File menu](https://github.com/jbayert/Paint/blob/master/Photos/The%20menu.png)
 
 About Paint
+
 ![About Paint](https://github.com/jbayert/Paint/blob/master/Photos/aboutPaint.png)

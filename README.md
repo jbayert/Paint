@@ -20,6 +20,10 @@ Full release notes are avalable [here](https://github.com/jbayert/Paint/blob/mas
 
 Also the uml is available [here](https://github.com/jbayert/Paint/blob/master/docs/UML%20Jonathan%20Bayert.pdf). 
 
+## JavaDoc
+
+The javaDoc for this project can be found: https://jonbayert.com/PaintJavaDoc/
+
 # Photos
 
 ![The Paint application](https://github.com/jbayert/Paint/blob/master/Photos/Capture1.PNG)
